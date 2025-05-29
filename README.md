@@ -30,7 +30,7 @@ InfinityWire
 ### **Component Configuration**
 ![component configuration uml diagram](images/mouse%20component%20config.png)
 
-## **Project Steps:**
+## **Steps taken:**
 > [!NOTE]
 > **Note:** Two mice will be created. One will be a wireless mouse using 2.4Ghz RF and USB-C and one will be a wired mouse using Micro-USB.
 - Custom breakout board PCB for PAW3395 ordered (credit to [ufan's breakout board](https://github.com/ufan/paw3395_pmw3361_breakout))
@@ -40,7 +40,6 @@ InfinityWire
 - ufan's breakout board layered in between sensor and LM19-LSI lens
 - Custom MX Anywhere 2 shell .stl downloaded and reviewed in [TinkerCAD](https://www.tinkercad.com/dashboard) and [Bambu Studio](https://bambulab.com/en/download/studio) (can be downloaded [here](https://www.printables.com/model/979182-lightweight-zeromouse-inspired-logitech-mx-mouse-m/files) or in [/files](https://github.com/aparkgh/zerowire/blob/main/files/Mouse%20Mod%20Final%20V1.stl))
 - MX Anywhere 2 shell printed and reviewed
-- 
 
 Top | Back + Left | Front + Right
 :-:|:-:|:-:
