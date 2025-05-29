@@ -13,7 +13,7 @@ InfinityWire
 
 **InfinityWire** is a custom-built wired USB HID mouse featuring Micro-USB charging[^1].
 
-InfinityWire is the wireless version of the initial project, [ZeroWire](https://github.com/aparkgh/zerowire).
+InfinityWire was the original concept behind Zerowire— a recreation of the zerømouse. Built using the PCB from a Logitech MX Anywhere 2, it served as an early prototype for what would eventually become [ZeroWire](https://github.com/aparkgh/zerowire); a lightweight, wireless, and portable mouse.
 
 ## **Components Used**
 > [!NOTE]
