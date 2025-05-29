@@ -35,7 +35,7 @@ InfinityWire was the original concept behind Zerowire— a recreation of the zer
 ## **Steps taken:**
 > [!NOTE]
 > **Note:** Two mice will be created. One will be a wireless mouse using 2.4Ghz RF and USB-C and one will be a wired mouse using Micro-USB.
-- Custom breakout board PCB for PAW3395 ordered (credit to [ufan's breakout board](https://github.com/ufan/paw3395_pmw3361_breakout))
+- Custom breakout board PCB for PAW3395 ordered (credit to [ufan's breakout board](https://github.com/ufan/paw3395_pmw3361_breakout)) --> mention custom pcb from aliexpress
 - [KiCAD](https://www.kicad.org/download/windows/) used to review PCB and schematic
 - Raspberry Pi Pico mounted (BOOTSEL) and .uf2 file uploaded (easier programming, can be downloaded [here](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html) or in [/files](https://github.com/aparkgh/zerowire/blob/main/files/RPI_PICO-20241129-v1.24.1.uf2))
 - [Thonny](https://thonny.org/) used to upload nrf24l01.py driver (for wireless transceiver, can be downloaded [here](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) or in [/files](https://github.com/aparkgh/zerowire/blob/main/files/nrf24l01.py))
