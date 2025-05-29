@@ -13,6 +13,8 @@ InfinityWire
 
 **InfinityWire** is a custom-built wired USB HID mouse featuring Micro-USB charging[^1].
 
+InfinityWire is the wireless version of the initial project, [ZeroWire](https://github.com/aparkgh/zerowire).
+
 ## **Components Used**
 > [!NOTE]
 > **Note:** A multimeter is required to tune the DC boost converter to 5V.
